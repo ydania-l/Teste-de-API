@@ -5,18 +5,18 @@
 **Neste projeto desarrollei as seguintes tarefas:**
 
 
--Criar e enviar solicitações à API via Postman
--Criar relatórios de bug
--Ler a documentação da API no Apidoc
--Criar os primeiros testes de API
--Testar a API através do Postman 
--Enviar relatórios de bug ao Jira
+- Criar e enviar solicitações à API via Postman
+- Criar relatórios de bug
+- Ler a documentação da API no Apidoc
+- Criar os primeiros testes de API
+- Testar a API através do Postman 
+- Enviar relatórios de bug ao Jira
 
 **Ferramentas usadas:**
 
--Postman
--Jira
--Apidoc
+- Postman
+- Jira
+- Apidoc
 
 **O aprendizagem no Bootcamp foi:**
 
